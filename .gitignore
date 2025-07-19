@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+*.egg-info/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data
+data/*.csv
+data/*.txt
+data/*.zip
+
+# Models
+models/*.h5
+models/*.pkl
+models/*.joblib
+models/*.safetensors
+models/*.pt
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Docker
+Dockerfile.bak

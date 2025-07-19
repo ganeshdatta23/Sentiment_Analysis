@@ -1,0 +1,1 @@
+# This makes src/data a Python package
