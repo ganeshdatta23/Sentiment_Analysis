@@ -4,7 +4,7 @@
 Automate analysis of 10K+ customer reviews
 
 ## Tools
-NLP (NLTK, SpaCy), HuggingFace Transformers, Python, Tableau
+NLP (NLTK, SpaCy), HuggingFace Transformers, Python, Power BI
 
 ## Key Result
 88% classification accuracy
@@ -38,7 +38,7 @@ NLP (NLTK, SpaCy), HuggingFace Transformers, Python, Tableau
 - Generate sentiment trend reports
 
 ### Dashboard Development
-- Build Tableau workbook with:
+- Build Power BI workbook with:
     - Sentiment distribution pie charts
     - Trending topics word clouds
     - Time-series sentiment trends
